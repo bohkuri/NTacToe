@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713377483 source:c:\users\shaun\onedrive\desktop\cisp 360\ntactoewpointers\main.cpp
+	<iostream>
+	"Board.h"
+
+1713377462 c:\users\shaun\onedrive\desktop\cisp 360\ntactoewpointers\board.h
+	<iostream>
+
+1712712101 source:c:\users\shaun\onedrive\desktop\cisp 360\ntactoewpointers\board.cpp
+	<iostream>
+	"Board.h"
+
